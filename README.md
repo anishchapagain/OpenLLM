@@ -14,6 +14,7 @@ The repository includes:
 - Python scripts (`*.py`) for various tasks related to GenAI and LLM.
 - Jupyter Notebooks (`*.ipynb`) demonstrating applications, experiments, and tutorials.
 - Additional resources and datasets used in the scripts and notebooks.
+- https://ai.google.dev/gemma#models | https://ai.google.dev/gemini-api | https://openai.com/api/ | https://huggingface.co/models
 
 ## Usage
 
