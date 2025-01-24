@@ -6,6 +6,7 @@ This repository contains Python scripts and Jupyter Notebooks related to General
 
 - **GenAI**: General Artificial Intelligence refers to AI systems that can perform tasks across a wide range of domains, often integrating multiple modalities such as text, image, and speech.
 - **LLM**: Large Language Models are AI models trained on vast amounts of text data to understand and generate human-like language.
+- **Agentic AI**: Agentic AI is a type of artificial intelligence (AI) that can make decisions and take actions independently. It can also adapt to new information and collaborate with humans to solve problems. 
 - **Mistral AI**: Frontier AI in your hands.
 
 ## Contents
